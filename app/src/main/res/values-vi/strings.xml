@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Game</string>
+    <string name="txtLuat">Each people, participated will guess a random word. Player have 4 so that guess</string>
+</resources>

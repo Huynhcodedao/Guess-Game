@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application Game</string>
+    <string name="txtLuat">Mỗi lần chơi, người dùng sẽ đoán một từ được chọn ngẫu nhiên từ trước. Người dùng sẽ có 4 lần để đoán ký tự có trong từ
+cần tìm bằng cách điền 1 chữ cái vào ô Guess. Nếu chữ cái đó có xuất hiện trong từ cần tìm, vị
+trí của chữ cái đó trong từ cần tìm sẽ được hiện lên, nếu không thì không có gì xuất hiện. Nếu
+số lượt đoán còn lại là 0 thì vô hiệu hóa ô Guess và nút Ktra. Tại bất kỳ thời điểm nào khi đang
+chơi người dùng có thể trả lời từ cần tìm bằng cách nhập đáp án vào ô Answer</string>
+</resources>
